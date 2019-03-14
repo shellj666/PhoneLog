@@ -8,3 +8,4 @@ C:\Users\Michelle\Desktop\PhoneLog\PhoneLog\obj\Debug\PhoneLog.csproj.GenerateRe
 C:\Users\Michelle\Desktop\PhoneLog\PhoneLog\obj\Debug\PhoneLog.csproj.CoreCompileInputs.cache
 C:\Users\Michelle\Desktop\PhoneLog\PhoneLog\obj\Debug\PhoneLog.exe
 C:\Users\Michelle\Desktop\PhoneLog\PhoneLog\obj\Debug\PhoneLog.pdb
+C:\Users\Michelle\Desktop\PhoneLog\PhoneLog\obj\Debug\PhoneLog.Form_About.resources

@@ -21,5 +21,11 @@ namespace PhoneLog
         {
             this.Close();
         }
+
+        private void Btn_About_Click(object sender, EventArgs e)
+        {
+            Form_About form_About = new Form_About();
+            form_About.Show();
+        }
     }
 }
