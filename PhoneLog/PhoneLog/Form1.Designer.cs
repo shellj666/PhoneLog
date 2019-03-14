@@ -74,6 +74,7 @@
             this.Btn_About.TabIndex = 3;
             this.Btn_About.Text = "About";
             this.Btn_About.UseVisualStyleBackColor = false;
+            this.Btn_About.Click += new System.EventHandler(this.Btn_About_Click);
             // 
             // Btn_LogCall
             // 
