@@ -16,5 +16,10 @@ namespace PhoneLog
         {
             InitializeComponent();
         }
+
+        private void Btn_Exit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
