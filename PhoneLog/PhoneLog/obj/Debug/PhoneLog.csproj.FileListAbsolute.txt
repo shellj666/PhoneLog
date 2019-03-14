@@ -1,0 +1,10 @@
+C:\Users\Michelle\Desktop\PhoneLog\PhoneLog\bin\Debug\PhoneLog.exe.config
+C:\Users\Michelle\Desktop\PhoneLog\PhoneLog\bin\Debug\PhoneLog.exe
+C:\Users\Michelle\Desktop\PhoneLog\PhoneLog\bin\Debug\PhoneLog.pdb
+C:\Users\Michelle\Desktop\PhoneLog\PhoneLog\obj\Debug\PhoneLog.csprojAssemblyReference.cache
+C:\Users\Michelle\Desktop\PhoneLog\PhoneLog\obj\Debug\PhoneLog.Form_PhoneLog.resources
+C:\Users\Michelle\Desktop\PhoneLog\PhoneLog\obj\Debug\PhoneLog.Properties.Resources.resources
+C:\Users\Michelle\Desktop\PhoneLog\PhoneLog\obj\Debug\PhoneLog.csproj.GenerateResource.cache
+C:\Users\Michelle\Desktop\PhoneLog\PhoneLog\obj\Debug\PhoneLog.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\Desktop\PhoneLog\PhoneLog\obj\Debug\PhoneLog.exe
+C:\Users\Michelle\Desktop\PhoneLog\PhoneLog\obj\Debug\PhoneLog.pdb
